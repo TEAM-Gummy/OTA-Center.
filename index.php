@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>OTA Update Center</title>
+    <title>Gummy OTA Update Center</title>
 
     <meta name="description" content="Over The Air Rom Update Center." />
     <meta name="keywords" content="OTA, Over The Air, Rom, Update, Center, Android, XDA, Custom, Roms, AOSP, Sense, Updater, Admin, App, Online Updates" />
@@ -57,7 +57,7 @@ $page = $_GET['page']; //sets the page variable from http request
             <div id="logo">
                 <a href="#">
                     <img src="images/android.gif" alt="Android" width="300" height="148" />
-                    <img src="images/test.png" alt="OTA Update Center" width="500" height="148" />
+                    <img src="images/test.png" alt="Gummy OTA Update Center" width="500" height="148" />
                 </a>
             </div>
             <nav>

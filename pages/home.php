@@ -1,6 +1,6 @@
 <h1>Home</h1>
 <p>
-Welcome! OTA Update Center is an Over The Air update service, that is free of use. This project is especially
+Welcome! Gummy OTA Update Center is an Over The Air update service, that is free of use. This project is especially
 for the rom devs around, to be able to implement an easy to use, and free OTA Update app. The project 
 has one goal, to provide a way to provide OTA Updates as easy and noob friendly as possible.
 </p>
