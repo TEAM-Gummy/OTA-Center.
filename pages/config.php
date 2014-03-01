@@ -18,9 +18,9 @@ $db = new mysqli($db_host, $db_user, $db_pass, $db_db);
 
 // Instellingen
 $loginpage = '?page=list-roms'; // Pagina waar de gebruiker heen wordt gestuurd wanneer deze is ingelogd
-$sitenaam = 'OTA-Service'; // Naam van je site; deze word oa. gebruikt bij het verzenden van mail
-$sitemail = 'noreplay@otaupdatecenter.pro'; // Afzender van verzonden mail
-$sitebaseurl = 'https://otaupdatecenter.pro/';
+$sitenaam = 'Gummy OTA-Service'; // Naam van je site; deze word oa. gebruikt bij het verzenden van mail
+$sitemail = 'noreplay@rombot.org'; // Afzender van verzonden mail
+$sitebaseurl = 'https://rombot.org/';
 $sitesalt = 'supersecretlongsalt - replace on install';
 $gcmapikey = 'GCM_API_KEY';
 $recaptcha_pubkey = 'public recapcha key';
